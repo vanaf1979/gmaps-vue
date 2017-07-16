@@ -1,2 +1,2 @@
 # gmaps-vue
-Vue2 Google maps compunent
+Vue2 Google maps component
