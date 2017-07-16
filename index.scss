@@ -1,0 +1,37 @@
+.gmap {
+  display: block;
+  width: 100%;
+  height: 350px;
+}
+
+.gmap-infowindow {
+  max-width: 220px;
+  font-size: 15px;
+  colro: #323232;
+}
+
+.gmap-infowindow h3 {
+  display: inline-block;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-size: 15px;
+  colro: #323232;
+}
+
+@media screen and ( max-width: 1024px ) {
+  .gmap {
+    height: 300px;
+  }
+}
+
+@media screen and ( max-width: 768px ) {
+  .gmap {
+    height: 300px;
+  }
+}
+
+@media screen and ( max-width: 568px ) {
+  .gmap {
+    height: 250px;
+  }
+}
