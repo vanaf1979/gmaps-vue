@@ -3,7 +3,7 @@ export default {
   name: 'GMap',
   data () {
     return {
-      apiKey: 'AIzaSyC-q2-MohkYZjMyoI5jbjeZLGbxaGXdT2Y',
+      apiKey: '',
       mapOptions: {
         center: null,
         zoom: 17,
